@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Napat Blöhs"
 title_separator          : "-"
 name                     : &name "Napat Blöhs"
 description              : &description "Napat Blöhs portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "Alukus/Alukus.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Napat Blöhs"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Thailand"
+  employer         : "Mahidol University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "napat.blo@student.mahidol.edu" 
 
   # Academic websites
   academia         : # URL
