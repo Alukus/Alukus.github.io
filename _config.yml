@@ -16,7 +16,7 @@ repository               : "Alukus/Alukus.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Napat.png"
+  avatar           : "Napat.jpg"
   name             : "Napat Blöhs"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
