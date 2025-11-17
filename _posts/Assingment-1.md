@@ -1,7 +1,7 @@
 ---
 title: 'Assingment 1'
 date: 2025-11-17
-permalink: /posts/2025/11/Assingment-1/
+permalink: /posts/2025/11/blog-post-1/
 tags:
   - Assingment
 ---
