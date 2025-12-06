@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='[/images/500x300.png](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/4918174)'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='(https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/4918174)'>"
 collection: portfolio
 ---
 
