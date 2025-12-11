@@ -1,6 +1,6 @@
 ---
 title: "Thailand_weather"
-excerpt: "Thailand weather map>"
+excerpt: "Thailand weather map"
 collection: portfolio
 ---
 
