@@ -1,6 +1,6 @@
 ---
 title: "seismic_map"
-excerpt: "seismic map map>"
+excerpt: "seismic map map"
 collection: portfolio
 ---
 
